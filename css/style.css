@@ -1,0 +1,32 @@
+/** {*/
+	/*font-family: Tahoma;*/
+/*}*/
+/*a {*/
+	/*color:#0074A2;*/
+/*}*/
+/*a:hover {*/
+	/*!*background-color: #786b59;*!*/
+	/*color: #003300;*/
+/*}*/
+/*.bar {*/
+	/*border-style: solid;*/
+	/*border-color: red;*/
+	/*padding: 15px;*/
+	/*!*background: yellow;*!*/
+/*}*/
+/*.bar > b {*/
+	/*color: #FF3399;*/
+	/*font-style: italic;*/
+ /*}*/
+
+body {
+	padding-top: 5rem;
+}
+.starter-template {
+	padding: 3rem 1.5rem;
+	text-align: center;
+}
+
+/*tr.gray td {*/
+/*background-color: #34a66b;*/
+/*}*/
